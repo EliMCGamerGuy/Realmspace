@@ -1,0 +1,8 @@
+# On Monklike Kni
+written by John Hayes
+
+---
+
+Monklike kni's names are chosen from elements, crystals, and materials because they don't hold individualism as high as the we or humanlike kni do. Monklike kni often look more at the forest rather than the trees, typically concerning themselves about the bigger picture than small details of individuals. This does not mean that they don't care when one of their own go missing. They will see the effect of the missing party's absence, and will fight to bring them back, even if they don't know the missing party. Kni, especially monklike kni, don't leave their comrades behind if it's in their power to do so. This doesn't mean, however, that monklike kni don't form relationships to individuals. They do, much in the same way we or humanlike kni would. It just means that the overall is above self. This also does not mean that they completely ignore self, either. Amethyst has a line of purple dye in her hair, but she's also a very useful unit of the resistance, teaching the young teen class group. Actually, I've seen kni work even harder to save, rescue, or otherwise recover someone they know. One kni I knew literally laid down his life for someone he knew very well.
+
+This group-over-self leaning, along with an innate yearn for archival and academics and their customary robes, is why they have come to be called 'monklike kni,' in English instead of the Knilang word for them, 'firauftkni,' which roughly means 'first descendant kni,' which implies hierarchy but hearkens back to The First Man. The first recorded use of the term 'monklike kni' was from a monklike kni.
