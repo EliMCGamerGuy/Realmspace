@@ -1,5 +1,5 @@
-# Copper's Journal
-annotated by Copper Steel in 5AU
+# Act 1 - Copper Steel's Journal
+Annotated by Copper Steel in 5AU
 
 ---
 

@@ -1,5 +1,5 @@
 # Act 0 - The Legend of the First Man 
-- Archival Copy, Kept by Amethyst Silver
+Archival Copy, Kept by Amethyst Silver
 
 ---
 

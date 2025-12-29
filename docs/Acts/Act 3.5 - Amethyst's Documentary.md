@@ -1,3 +1,8 @@
+# Act 3.5 - Amethyst's Documentary
+
+
+---
+
 ### Cobalt's Nightmare
 taped by Amethyst Silver
 
@@ -34,12 +39,19 @@ Amethyst: "Mol, to kill. Dir, without reason. Lir, one who does. Es, make it plu
 
 ...
 
+"I don't think...I should've heard this..."
+
+...
+
 "I...don't know if I've ever heard her use Knilang before..."
 
-"I hope she's actually okay...I can make an educated guess who she was talking about...Maybe someday she'll say what happened to..."
+...
 
+"I hope she's actually okay...I can only make an educated guess who she was talking about..."
+
+...
 *(She whispers to the camera.)*
-"...to Ferrite..."
+"Was it Ferrite?"
 (Beep!)
 
 
