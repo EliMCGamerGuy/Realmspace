@@ -4,6 +4,7 @@
 
 [[Basics of Kni Physiology]] written by John Hayes
 [[Kni Eyes and Glow Meaning]] written by John Hayes
+[[Classes and Types of Focus]] written by Amethyst Silver
 [[On Female Kni's Form (Possible Reasons)]] written by John Hayes
 [[Limits of Focus Healing]] written by Amethyst Silver
 [[On Monklike Kni]] written by John Hayes
