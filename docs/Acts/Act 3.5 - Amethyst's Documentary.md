@@ -28,7 +28,7 @@ Amethyst: "Mol, to kill. Dir, without reason. Lir, one who does. Es, make it plu
 
 "The closest single English word would be *'murderers.'*"
 
-"Well, the energy and distain behind the phrase would be closer to *'fricking murderers'*...just without the euphemism..."
+"Well, the energy and distain behind the phrase would be closer to *'fricking murderers'*...just without the English euphemism..."
 
 "'Thusvasyomar. Thusvassoyomar.'"
 "Thus, referring so something specific. Vas, referring to what, or asking what. Yo, you. Mar, states the act of being. So, refers to all."
