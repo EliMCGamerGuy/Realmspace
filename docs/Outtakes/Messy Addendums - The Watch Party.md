@@ -1,9 +1,11 @@
-EliMCGamerGuy: 
+## A note from the author: 
 This is my characters reacting to my 'conclusion' of their story that I'd written back in 2024. I wanted SO BADLY to return to Realmspace, to give their stories some closure, and it comes across. This is rushed, sloppy, unfinished, and...not...great. Also, I hadn't given the characters space to grow and take root, to become their own personalities. Also, Shelia was a passing mention. That is immediate proof to this. Shelia, in the addendums, is defined as "being Zinc's assistant" instead of being surveillance co-officer. Nor did she have any family, or a connection to Zinc. I canonized this previous writing of mine as Copper writing while stuck outside of realm 04. He found a video recorder, and along with illusion focus and his own writing, imagined what his return would look like.
+
+In reality, I just wanted an excuse to dunk on this old writing.
 
 ---
 
-# Messy Addendums - The Watch Party
+## Messy Addendums - The Watch Party
 
 
 
@@ -28,7 +30,7 @@ Zinc: "Aaand he's gone. Man down."
 
 
 
-Addendum 1
+### Addendum 1
 It has been ten years since the uprising. I am now about 24 years old, I have had years of training with my focuses,
 
 Modern Zinc: "The math isn't working here, by the way! That'd clock you as 14 at the time of the uprising!"
@@ -50,7 +52,7 @@ But that's irrelevant. The replicas coming over one by one have shown me that th
 Modern Copper: `( ! Please connect an Xbox 360 controller. )`
 
 
-Addendum 2
+### Addendum 2
 I've done it. The rift is open. about 8 months since my last addition, and I did it. I can't see much on the other side, but I'm going to go through. I hope it's as I remember, not as the replicas made it.
 
 
@@ -59,7 +61,7 @@ Modern Shelia: "(I got that reference!)"
 
 
 
-(Tape 553)
+### (Tape 553)
 Zinc: "Hey, Zinc here. This is log number...Five hundred and fifty...three. Fifty-three. Uh...There's not much to report today. Regular fluctuations in replica numbers due to time. Yep. They still have to sleep. I'm surprised they haven't fixed that yet. Just kill off the ones that get tired, right? It's weakness after all. There's still the wolf replica groups going around. They're in the...South side of the city right now."
 
 
