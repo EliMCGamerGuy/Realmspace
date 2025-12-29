@@ -1,4 +1,7 @@
-Copper's Journal, annotated by Copper Steel in 5AU
+# Copper's Journal
+annotated by Copper Steel in 5AU
+
+---
 
 ### Entry 1 (5/10/1533) (1BU)
 Mom gave me this journal when I turned 17, saying that it's a good thing to write things down. Well, when have I ever denied her suggestion?...don't answer that. I'm not only getting to it a year later.

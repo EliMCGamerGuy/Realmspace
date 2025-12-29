@@ -1,11 +1,12 @@
 # Realmspace
+### Intro
 
 *What if there was more worlds out there, past a special plane of existence that we humans alone cannot cross?*
 
 ...
 
 *What if there was a hostile takeover in one of those worlds?*
-How would that affect the people?*
+*How would that affect the people in that world?*
 
 ---
 ### What is Realmspace?
@@ -23,7 +24,7 @@ Don't care about the content warnings?
 Skip to the [[Released Acts]] here.
 
 ### Content warnings:
-I've never thought about the requirement of content warnings, but Realmspace doesn't play coy with a number of topics.
+I've never actually thought about the requirement of content warnings, but Realmspace doesn't play coy with a number of topics.
 Here are some topics that its brushed with, including unreleased in-development acts.
 
 - Blood, essence, and possible described gore
@@ -54,9 +55,9 @@ Here are some topics that its brushed with, including unreleased in-development 
 This list exists to inform potential readers, not to give away story beats.
 The topics that Realmspace brushes with, I try to stay true to examples of and try to portray well.
 
-Well, that's a lot. I hope you still want to read it, potential reader!
+Well, that's...a lot. I hope you still want to read it, potential reader!
 
-# Shut it already, I wanna read!
+### Shut it already, I wanna read!
 lol
 ### [[Released Acts]]
 

@@ -1,6 +1,9 @@
 # Act 0 - The Legend of the First Man 
 - Archival Copy, Kept by Amethyst Silver
 
+---
+
+
 Long ago, there was a great civilization in the first realm. It was started by the created beings from the created realm who learned how to pass through realmspace. Realmspace, at that time, was a dark, shapeless void with where the realms lie being mostly guesswork, and its existence and how to traverse it being a closely guarded secret. The created beings built a civilization in the first realm, energized by the raw, power-rich air there. They called this raw power "kna," or "unrefined energy." Generations passed and the method they used to pass through realmspace had been almost completely lost. 
 
 About seven generations in, the realm faced a famine like no other they had before. The soil bore no grain, nor did the kna in the air help at all. As it continued, the town's food supply dwindled, and people started to starve. One man, however, worked through the starvation, reading into the night by candlelight alone. One man who had no family of his own.

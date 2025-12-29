@@ -31,7 +31,7 @@ Zinc: "Aaand he's gone. Man down."
 Addendum 1
 It has been ten years since the uprising. I am now about 24 years old, I have had years of training with my focuses,
 
-Modern Zinc: "The math doesn't working here, by the way! That'd clock you as 14 at the time of the uprising!"
+Modern Zinc: "The math isn't working here, by the way! That'd clock you as 14 at the time of the uprising!"
 
 even learning some advanced focusing on my own and learning a new form, the ability to bind my focus to the ground or objects. Bound focuses don't take any energy from me to maintain, but they must be released for them to go away. Over the years, my energy has been pooling. My hair has gone from black to dark gray like dad's did. The replicas have found their way out of realm 4, but it's only one at a time. About once a month, I'll have to face off against one, regardless of which realm I'm in. I can't kill them alone, so I take to restraining them, 
 
@@ -47,7 +47,7 @@ I can't stay too long at my shack lest the replicas find it. It's my base, but i
 But that's irrelevant. The replicas coming over one by one have shown me that the realmspace to realm 04 is not completely severed. Though I can't see it, it might still be there. I've been trying for months now to open a realmspace portal directly to realm 04.
 
 
-Modern Copper: ( ! Please connect an Xbox 360 controller. )
+Modern Copper: `( ! Please connect an Xbox 360 controller. )`
 
 
 Addendum 2
@@ -176,6 +176,7 @@ Copper: "John's alive?"
 
 
 Modern John: "I'm pretty sure, yeah."
+Modern Zinc: "Just a hunch?"
 
 
 Zinc: "Yep. Honestly wish I could say the same for Jessie. They killed her and it drove him into a rage. He whipped up the rag tag team of refugee wranglers you left behind into a pretty good underground resistance. The replica still have no idea, and it's the only place that humans can live a safe life."
@@ -230,7 +231,7 @@ Zinc: "Yep. She tried dying it purple because she's our head focus teacher, but 
 
 
 Modern Amy: "COPPER, I WISH I WAS HEAD."
-Modern Copper: NO BOOT MEDIA DETECTED
+Modern Copper: `NO BOOT MEDIA DETECTED`
 
 
 Copper: "By shield bashing? Wouldn't duels be a quicker way to train such a focus?"
@@ -273,7 +274,7 @@ Amy: "No, you can- You can come in."
 Modern Amy: "Red and purple?"
 Modern Shelia: "You look a little like Kai from realm 10's Ninjago, if he was a monklike kni girl with purple hair."
 Modern Amy: *(Defeated sigh)*
-Modern Copper: INSERT RECOVERY DISK
+Modern Copper: `INSERT RECOVERY DISK`
 
 
 *(There's the sounds of a struggle, and then a thud.)*
@@ -383,7 +384,7 @@ Modern Amy: "I don't hate it, but we're not there yet."
 *(Cobalt has sunken and leaned forward in her seat, the poor humanlike kni wasn't even mentioned.)*
 *(Luke visibly doesn't want to be here. He'd even rather a smuggled copy of realm 10's Star Trek or Lord of the Rings.)*
 Shelia: "That was it? I was hardly a footnote in the addendums! Scott didn't even exist!!"
-*(She throws popcorn at the screen.)* 
+*(She throws a handful of popcorn at the screen.)* 
 
 *(Sapphire is suppressing the thought "My word. Something I made made* ***this.*** *At least he tried." Cobalt is death-glaring THROUGH the chairs at Copper. Copper is lying prone, face down, with his hands on his head.)*
 Copper: "...I was lonely in realmspace! I spent five years out there!"
