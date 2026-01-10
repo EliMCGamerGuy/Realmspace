@@ -1,4 +1,4 @@
-# The Resistance corkboard
+# The Resistance Educational Board
 
 ---
 

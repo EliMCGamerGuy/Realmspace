@@ -9,10 +9,15 @@ Released acts are portions of the story that I've had such confidence in to call
 ### [[Act 3.5 - Amethyst's Documentary]]
 
 ---
+# The Resistance Educational board
+A note wall for educational material, housed right outside the Resistance's classrooms.
+[[The Resistance Educational Board]]
+(If you don't understand something, there might be a note to clear it up)
+
+---
 # Vignettes
 (supplemental material that don't really have places in the story)
 In no particular order:
-[[The Resistance corkboard]]
 [[Alloying]] written by Sapphire Bronze
 [[Scott's Alloying]] written by Sapphire Bronze
 [[Ropes]] written swiftly by Cobalt Wilton
