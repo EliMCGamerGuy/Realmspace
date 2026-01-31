@@ -11,7 +11,7 @@
 ---
 ### What is Realmspace?
 
-**Realmspace**, a passion project by EliMCGamerGuy, is a character-driven story about the *people* after an uprising, told through logs, journals, recordings, and otherwise written or recorded word or action.
+**Realmspace**, an ongoing passion project by EliMCGamerGuy, is a character-driven story about the *people* after an uprising, told through logs, journals, recordings, and otherwise written or recorded word or action.
 
 It is written by me alone, with the characters and lore living almost full lives in my mind. For more information, I would recommend reading the [[Realmspace AI Statement]].
 
