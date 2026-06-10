@@ -409,8 +409,8 @@ I think I'm going to take a trip to the ruins district. To our old home.
 ---
 
 
-Sapphire's journal, entry 3
-### Sirdas 12/13/1539 (again)
+### Sapphire's journal, entry 3
+Sirdas 12/13/1539 (again)
 
 I haven't sewn at all yet today...
 
