@@ -30,6 +30,7 @@ Here are some topics that its brushed with, including unreleased in-development 
 - Blood, essence, and possible described gore
 - Described or implied violence
 - Emotional distress
+- Overthinking
 - Depression
 - Suicide contemplation
 - PTSD or trauma
@@ -63,4 +64,4 @@ lol
 
 
 
-Realmspace is copyright EliMCGamerGuy, 2025
+Realmspace is copyright EliMCGamerGuy, 2026

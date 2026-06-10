@@ -5,7 +5,7 @@ This document is for anyone reading Realmspace, and is interested in the part AI
 
 ## To begin:
 
-Realmspace is not made by AI. The story is my own, the characters are my own, and the documents are written with my own keyboards. I don't prefer works if I know they're made by AI. AI is not able, without immense computational power, to keep track of all lore, details, and character personalities and writing quirks that a human writer could after a brief reading of supplemental material. This, however, does not stop me from using AI for inspiration and iteration. This is why I felt the need to write this document.
+Realmspace is not made by AI. The story is my own, the characters are my own, and the documents are written with my own keyboards. I don't prefer works if I know they're made by AI. AI is not able, without immense computational power, to keep track of all lore, details, and character personalities and writing quirks that a human writer could after a brief reading of supplemental material, nor is it able to make anything new. This, however, does not stop me from using AI for inspiration and iteration. This is why I felt the need to write this document.
 
 
 ## How is Realmspace your own?
@@ -36,7 +36,7 @@ Most, if not all, would be vignettes. Like I said, the AI almost never makes it 
 
 The two times that I can recall using AI for the acts was help setting up the 2d6 dice tables for Cobalt's runs in Act 3, and getting an idea of what Amethyst would ask for the documentary in Act 3.5, but even then I generated like 20 for each character and walked away with maybe 4 to 6 per character. Then I completely rewrote the questions to maintain momentum, voice, and smoothness.
 
-One time, since I defined Cobalt's mannerisms as "sometimes almost catlike" and it tried to give her ears and a tail for a good while. Like, "no, she's just a humanlike kni. Although she'd 100% play a beast race in RPGs."
+One time, since I defined Cobalt's mannerisms as "sometimes almost catlike," it tried to give her ears and a tail for a good while. Like, "no, she's just a humanlike kni. Although she'd 100% play a beast race in RPGs."
 
 
 ## What are you trying to prove?

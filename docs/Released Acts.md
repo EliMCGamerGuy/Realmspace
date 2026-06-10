@@ -8,6 +8,7 @@ Released acts are portions of the story that I've had such confidence in to call
 ### [[Act 3 - Amy and Cobalt's Logs]]
 ### [[Act 3.5 - Amethyst's Documentary]]
 
+### [[Act 4 - Sapphire]]
 ---
 # The Resistance Educational board
 A note wall for educational material, housed right outside the Resistance's classrooms.
@@ -25,5 +26,6 @@ In no particular order:
 [[Replica Hitler]] recorded by Zinc Lithium
 [[Replica Kni]] recorded by Zinc Lithium
 [[Copper counting in Knilang in realm 25]] recorded by Zinc Lithium
+[[Cobalt's Books]] written by Cobalt Wilton
 
 [[Outtakes]]
