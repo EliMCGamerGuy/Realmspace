@@ -27,7 +27,10 @@ In no particular order:
 [[Replica Kni]] recorded by Zinc Lithium
 [[Copper counting in Knilang in realm 25]] recorded by Zinc Lithium
 [[Cobalt's Books]] written by Cobalt Wilton
+[[Medical Notes]] written by Dr. Matthew Avery
 
 [[John's Desk]]
 
 [[Outtakes]]
+
+[[Gallery]]
