@@ -40,6 +40,11 @@ y'know
 9/14/2025
 lol
 
+# Copper Post-5 Years
+A little more happy with this Cobalt design, but still not super sold on it and I don't know why.
+![[rn_image_picker_lib_temp_be984be1-339c-49a5-b22f-e7895251296f.jpg]]
+9/17/2025
+
 # Cobalt in Profile
 WHY IS THE IMAGE SO LARGE
 I drew this on my phone instead of sleeping :)
@@ -49,7 +54,13 @@ I drew this on my phone instead of sleeping :)
 # suffering
 
 ![[20250918_174433.jpg]]
+9/18/2026
 
 # Happy Cobalt
-Because she deserves it already.
+Because she deserves it already. One must imagine Cobalt happy.
 ![[image3.png]]
+1/4/2026
+
+# Couple Cobalts and a Shelia
+![[20260612_192733.jpg]]
+1/4/2026
