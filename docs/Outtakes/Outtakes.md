@@ -30,11 +30,14 @@ Shelia: “Wow, writer. Bold choice. Didn’t know we were going for the 'dramat
 Sapphire: "Excuse me?" 
 *(Sapphire's expression shifts to a very confused smile as she looks to literally anyone else for an explanation.)*
 
-*(Cobalt's eyes narrow as she locks eyes with Shelia, who is unrelenting in her smugness.)*
+*(Cobalt's eyes narrow as she locks eyes with Shelia, who is unrelenting in her smugness. Cobalt starts calculating a kill shot.)*
 
 Director: "Alright, reset." 
 
 *(Sapphire hands Cobalt her torn clothes back. Cobalt puts her shirt back on and glares at Shelia with a slight smirk.)*
 Cobalt: "next spar, i'll win."
+Shelia: "Ooh, is that a threat?"
+Cobalt: "it's a promise."
+
 
 ---

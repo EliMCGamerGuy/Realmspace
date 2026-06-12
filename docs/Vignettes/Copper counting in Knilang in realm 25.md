@@ -4,14 +4,14 @@ recorded through Saul's very tiny rift by Zinc Lithium
 ---
 
 Copper: "Fir, sir, thir, fov, fiv, siv, sev, ev, nev, tev."
-"Tevfir, tevsir, tevthir, tevfor, tevfiv, tevsiv, tevsev, tevev, tevnev, sirtev."
+"Tevfir, tevsir, tevthir, tevfov, tevfiv, tevsiv, tevsev, tevev, tevnev, sirtev."
 "...Sirtev-fir."
 
 "And zero is nir."
 
 "Thirtevfir, fovtevfir, fivtevfir... All the way to un." 
 
-"So...four hundred and fifty-seven would be... forun-fivtevsev." 
+"So...four hundred and fifty-seven would be... fovun-fivtevsev." 
 
 "I'm not counting to tevun, much less...uh...tevuntevun? I think that's a million. or was it firtevuntevun? Do you need that explicit fir, or is it implicit like with tevun?"
 

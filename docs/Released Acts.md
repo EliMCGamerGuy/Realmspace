@@ -16,7 +16,7 @@ A note wall for educational material, housed right outside the Resistance's clas
 (If you don't understand something, there might be a note to clear it up)
 
 ---
-# Vignettes
+# Vignettes / Supplemental Material
 (supplemental material that don't really have places in the story)
 In no particular order:
 [[Alloying]] written by Sapphire Bronze
@@ -27,5 +27,7 @@ In no particular order:
 [[Replica Kni]] recorded by Zinc Lithium
 [[Copper counting in Knilang in realm 25]] recorded by Zinc Lithium
 [[Cobalt's Books]] written by Cobalt Wilton
+
+[[John's Desk]]
 
 [[Outtakes]]
