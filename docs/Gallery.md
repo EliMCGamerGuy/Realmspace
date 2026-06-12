@@ -9,7 +9,8 @@ One of my first ever drawings of Copper. Stilll not sold on this design.
 
 # Sleepy Copper
 Obviously based off of the last drawing. This one I actually used as a screensaver for a bit.
-![[sleepy_copper_by_elimcgamerguy_dhz4s1o.png]]8/3/2024
+![[sleepy_copper_by_elimcgamerguy_dhz4s1o.png]]
+8/3/2024
 
 # Drawing Copper on my Tablet PC
 Still not sold on this design. I don't know, it's just not working for me.
