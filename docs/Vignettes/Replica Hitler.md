@@ -3,8 +3,8 @@ recorded by Zinc Lithium
 
 ---
 
-{The Surveillance break room}
-{1AU}
+\[The Surveillance break room\]
+\[1AU\]
 Shelia: "You know, I'm thankful nobody showed the replica kni any of realm 10's World War II movies."
 Zinc: *(Chokes on his coffee, again)*
 John: "Shelia, you have horrible timing with Zinc."

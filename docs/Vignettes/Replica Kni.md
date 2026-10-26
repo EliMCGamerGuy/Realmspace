@@ -3,7 +3,7 @@ recorded by Zinc Lithium
 
 ---
 
-{5AU, The Surveillance break room}
+\[5AU, The Surveillance break room\]
 Amy: "Hey, Shelia, you know about realm 10, right?"
 Shelia: "A little, watcha need?"
 Amy: "I've been doing some reading realm 10 Internet culture in my spare time..."

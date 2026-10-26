@@ -28,6 +28,8 @@ In no particular order:
 [[Copper counting in Knilang in realm 25]] recorded by Zinc Lithium
 [[Cobalt's Books]] written by Cobalt Wilton
 [[Medical Notes]] written by Dr. Matthew Avery
+[[The Corner]] recorded by Zinc Lithium
+[[Carver]] recorded by Zinc Lithium
 
 [[John's Desk]]
 

@@ -3,8 +3,8 @@ recorded by Zinc Lithium
 
 ---
 
-{1AU}
-{The Surveillance break room}
+\[1AU\]
+\[The Surveillance break room\]
 Shelia: "You know what would've made the uprising considerably worse?"
 Amy: "Uh-oh."
 Shelia: "Guns."
