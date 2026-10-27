@@ -30,6 +30,7 @@ In no particular order:
 [[Medical Notes]] written by Dr. Matthew Avery
 [[The Corner]] recorded by Zinc Lithium
 [[Carver]] recorded by Zinc Lithium
+[[Discarded Note]] written by Steven, found by Cobalt
 
 [[John's Desk]]
 
