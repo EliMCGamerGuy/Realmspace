@@ -57,6 +57,6 @@ Zinc: "You're talking about only roughly a tenth of them."
 
 "But it is an interesting idea."
 
-"Just please be careful who you share it with, Shel. We may've killed hundreds of them but they've killed hundreds of thousands of us, counting humans."
+"Just please be careful who you share it with, Shel. We may've killed thousands of them but they've killed hundreds of thousands of us, counting humans."
 
 "And some people won't take too kindly to you thinking about them that way."
